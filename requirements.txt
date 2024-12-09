@@ -7,3 +7,4 @@ missingno
 scikit-learn
 GaussianNB
 LogisticRegression
+DecisionTreeClassifier
