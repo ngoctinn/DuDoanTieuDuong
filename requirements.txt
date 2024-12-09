@@ -5,3 +5,4 @@ seaborn
 mlxtend
 missingno
 scikit-learn
+GaussianNB
