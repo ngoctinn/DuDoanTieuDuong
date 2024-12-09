@@ -6,3 +6,4 @@ mlxtend
 missingno
 scikit-learn
 GaussianNB
+LogisticRegression
